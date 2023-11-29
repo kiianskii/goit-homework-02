@@ -26,7 +26,7 @@ color: var(--IRIS, #4D5AE5);
 }
 
 .header-navigation-links{
-color: var(--NAVY-BLUE, #2E2F42);
+
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -64,18 +64,6 @@ font-style: normal
 }
 .header-navigation-mail:focus {
 color: var(--OCEAN, #404BBF);
-}
-
-.header-navigation-tel {
-color: var(--SLATE, #434455);
-
-    /* Body */
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    /* 150% */
-    letter-spacing: 0.32px;
 }
 
 /* Main, dark background */
@@ -116,6 +104,9 @@ color: var(--WHITE, #FFF);
 
 }
 /* Features */
+.section-features{
+color: #2e2f42;
+}
 
 .section-features-items{
 font-size: 20px;
@@ -144,6 +135,7 @@ letter-spacing: 0.32px;
 }
 
 .section-team-header{
+    color: #2e2f42;
         text-align: center;
         font-size: 36px;
         font-style: normal;
@@ -164,6 +156,7 @@ lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
 
 .section-team-member{
+   color: #2e2f42;
         text-align: center;
         font-size: 20px;
         font-style: normal;
@@ -187,6 +180,7 @@ letter-spacing: 0.32px;
 /* Our Portfolio */
 
 .section-portfolio-header{
+    color: #2e2f42;
 text-align: center;
 font-size: 36px;
 font-style: normal;
@@ -198,6 +192,7 @@ text-transform: capitalize;
 }
 
 .section-portfolio-item{
+    color: #2e2f42;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
